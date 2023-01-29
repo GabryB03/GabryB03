@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C#, Lua, Java, WordPress, SEO**
 
-- 📫 How to reach me **gbologna03@gmail.com**
+- 📫 How to reach me **gbologna03@gmail.com**, Discord: **Gabriele Bologna#5399**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
