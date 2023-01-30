@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **WordPress**, **IL Bytecode**, **Artificial Intelligence**.
 
-- 💬 Ask me about **C#, Lua, Java, WordPress, SEO**.
+- 💬 Ask me about **C#, Lua, Java, WordPress, SEO, IT Security**.
 
 - 📫 How to reach me **gbologna03@gmail.com**.
 
