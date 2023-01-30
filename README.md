@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Telegram: <b><a href="https//t.me/gabryb03" target="blank">@GabryB03</a></b><br />
+  Telegram: <b>@GabryB03</b>
   Discord: <b>Gabriele Bologna#5399</b>
 </p
 
