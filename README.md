@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Telegram: **@GabryB03**<br />
-  Discord: **Gabriele Bologna#5399**
+  Telegram: <b><a href="https//t.me/gabryb03">@GabryB03</a></b><br />
+  Discord: <b>Gabriele Bologna#5399</b>
 </p
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabryb03&show_icons=true&theme=dracula&title_color=fb8c00&text_color=000000&bg_color=ffffff&locale=en" alt="gabryb03" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=excse&theme=default" alt="excse" /></p>
