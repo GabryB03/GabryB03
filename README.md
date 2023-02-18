@@ -11,4 +11,4 @@
 
 - 📫 How to reach me **gbologna03@gmail.com**.
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabryb03&show_icons=true&theme=dracula&title_color=fb8c00&text_color=000000&bg_color=ffffff&locale=en" alt="gabryb03" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=excse&theme=default" alt="excse" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabryb03&show_icons=true&theme=dracula&title_color=fb8c00&text_color=000000&bg_color=ffffff&locale=en" alt="gabryb03" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabryb03&theme=default" alt="gabryb03" /></p>
