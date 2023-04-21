@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabryb03&label=Views&color=fb8c00&style=flat-square" alt="gabryb03" /> </p>
 
-- 🔭 I’m currently working on [UnseeSharp](https://github.com/GabryB03/UnseeSharp).
+- 🔭 My top project which I worked on much time is [UnseeSharp](https://github.com/GabryB03/UnseeSharp).
 
-- 🌱 I’m currently learning **WordPress**, **IL Bytecode**, **Artificial Intelligence**.
+- 🌱 I’m currently learning **Dart and Flutter, OpenCV & AIs**.
 
-- 💬 Ask me about **C#, Lua, Java, WordPress, SEO, IT Security**.
+- 💬 Ask me about **C#.NET, WordPress, SEO, Minecraft developing, Visual Basic.NET**.
 
 - 📫 How to reach me **gbologna03@gmail.com**.
 
