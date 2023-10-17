@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriele</h1>
-<h3 align="center">A developer who likes to try things out</h3>
+<h3 align="center">A developer who likes to try things out and have fun with knowledge!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabryb03&label=Views&color=fb8c00&style=flat-square" alt="gabryb03" /> </p>
 
-- 🔭 My top project which I worked on much time is [UnseeSharp](https://github.com/GabryB03/UnseeSharp).
+- 🔭 My top projects which I worked on much time are [UnseeSharp](https://github.com/GabryB03/UnseeSharp) and [MemoryHacks](https://github.com/GabryB03/MemoryHacks)
 
 - 🌱 I’m currently learning **Dart and Flutter, OpenCV & AIs**.
 
