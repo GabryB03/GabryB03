@@ -3,9 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabryb03&label=Views&color=fb8c00&style=flat-square" alt="gabryb03" /> </p>
 
-- 🔭 My top projects which I worked on much time are [UnseeSharp](https://github.com/GabryB03/UnseeSharp), [MemoryHacks](https://github.com/GabryB03/MemoryHacks), [PickAnyVoice](https://github.com/GabryB03/PickAnyVoice), [PilotAntiCheat](https://github.com/GabryB03/PilotAntiCheat).
+- 🔭 My top projects which I worked on much time are [UnseeSharp](https://github.com/GabryB03/UnseeSharp/), [MemoryHacks](https://github.com/GabryB03/MemoryHacks/), [PickAnyVoice](https://github.com/GabryB03/PickAnyVoice/), [PilotAntiCheat](https://github.com/GabryB03/PilotAntiCheat/).
 
 - 🌱 I’m currently learning **Artificial Intelligence and Flutter**.
+
+- ✍️ I’m currently working on [SSCP](https://github.com/GabryB03/SSCP/)
 
 - 💬 Ask me about **Visual Basic .NET, C# .NET, Lua, Python, C++, Dart, Flutter, PHP, WordPress**.
 
