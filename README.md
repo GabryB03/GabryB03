@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Flutter**.
 
-- ✍️ I’m currently working on [SSCP](https://github.com/GabryB03/SSCP/)
+- ✍️ I’m currently working on [SSCP](https://github.com/GabryB03/SSCP/).
 
 - 💬 Ask me about **Visual Basic .NET, C# .NET, Lua, Python, C++, Dart, Flutter, PHP, WordPress**.
 
