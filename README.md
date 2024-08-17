@@ -5,7 +5,7 @@
 
 - 🔭 My top projects which I worked on much time are [UnseeSharp](https://github.com/GabryB03/UnseeSharp), [MemoryHacks](https://github.com/GabryB03/MemoryHacks), [PickAnyVoice](https://github.com/GabryB03/PickAnyVoice), [PilotAntiCheat](https://github.com/GabryB03/PilotAntiCheat).
 
-- 🌱 I’m currently learning **Artificial Intelligence**.
+- 🌱 I’m currently learning **Artificial Intelligence and Flutter**.
 
 - 💬 Ask me about **Visual Basic .NET, C# .NET, Lua, Python, C++, Dart, Flutter, PHP, WordPress**.
 
