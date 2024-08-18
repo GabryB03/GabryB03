@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabryb03&label=Views&color=fb8c00&style=flat-square" alt="gabryb03" /> </p>
 
-- 🔭 My top projects which I worked on much time are [UnseeSharp](https://github.com/GabryB03/UnseeSharp/), [MemoryHacks](https://github.com/GabryB03/MemoryHacks/), [PickAnyVoice](https://github.com/GabryB03/PickAnyVoice/), [PilotAntiCheat](https://github.com/GabryB03/PilotAntiCheat/).
+- 🔭 My top projects which I worked on much time are [UnseeSharp](https://github.com/GabryB03/UnseeSharp/), [MemoryHacks](https://github.com/GabryB03/MemoryHacks/), [PickAnyVoice](https://github.com/GabryB03/PickAnyVoice/), [PilotAntiCheat](https://github.com/GabryB03/PilotAntiCheat/), [SSCP](https://github.com/GabryB03/SSCP/), [ViperCleaner](https://github.com/GabryB03/ViperCleaner/), [GrandAntiCheat](https://github.com/GabryB03/GrandAntiCheat/).
 
-- 🌱 I’m currently learning **Artificial Intelligence and Flutter**.
+- 🌱 I’m currently learning **Artificial Intelligence and Flutter**. In general, I stay updated on the really new technologies (AI, languages, IDEs, frameworks, ...).
 
 - ✍️ I’m currently working on [SSCP](https://github.com/GabryB03/SSCP/), my really first networking protocol that I made after lots of failed experiments.
 
